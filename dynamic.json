@@ -1,0 +1,47 @@
+{
+	"profile":{
+		"img":"profile pic.jpg",
+		"name":"Maha lakshmi",
+		"roll":"123456",
+		"institute":"xxxxx",
+		"place":"kakinada"
+	          },
+
+	"career":{
+		"info": "to secure a challenging position where i can explore my talents for the benefits of the organization"
+	         },
+
+	"education":[
+             {
+	"s":"1",
+	"degree":"b.tech",
+	"institute":"xxxx",
+	"yop":"2018"
+             },
+             {
+	"s":"2",
+	"degree":"intermediate",
+	"institute":"xxxx",
+	"yop":"2014"
+             },
+             {
+	"s":"3",
+	"degree":"s.s.c",
+	"institute":"xxxx",
+	"yop":"2012"
+             }
+              ],
+	"languages":[
+
+		     {
+			"lang":"english"
+		     },
+		     {
+			"lang":"hindi"
+		     },
+		     {
+			"lang":"telugu"
+		     }
+	            ]
+
+}
